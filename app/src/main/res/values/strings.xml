@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Repaso</string>
+    <string name="HistoriaSuma">
+        El hombre neolítico ya hacía matemática elemental, por lo tanto sabía sumar; pero previamente captó la idea de restar, puesto que sus medios de subsistencia disminuían durante el año, y no le era tan fácil de reponer.
+        \n \n
+        Los egipcios llegaron a sumar lo que se llaman hoy, números naturales y los números fraccionarios. Los babilonios llegaron a sumar los cuadrados de los números naturales. Los chinos y los hindúes sumaron números negativos. En el Renacimiento, con el auge de la banca y del comercio, se impuso la suma de decimales, catapultada por el uso del sistema de numeración decimal. Además se popularizó la adición de logaritmos vulgares, que reemplazaba eficazmente a la multiplicación de números tanto en el comercio, finanzas, astronomía, navegación, etc.
+        \n \n
+        Con la forma de los diferentes tipos de número, se habla de suma de números reales (o expresiones decimales) y la suma de números complejos, que no es sino la suma de pares ordenados de números reales. Pero sí, con sus propias peculiaridades, tanto al generalizar para racionales y enteros. Además se suman con otros objetos, aun en el álgebra de Boole se habla de suma boleana.
+    </string>
+    <string name="HistoriaResta">
+        El hombre neolítico ya hacía matemática elemental, por lo tanto sabía sumar; pero previamente captó la idea de restar, puesto que sus medios de subsistencia disminuían durante el año, y no le era tan fácil de reponer.
+        \n \n
+        Los egipcios llegaron a sumar lo que se llaman hoy, números naturales y los números fraccionarios. Los babilonios llegaron a sumar los cuadrados de los números naturales. Los chinos y los hindúes sumaron números negativos. En el Renacimiento, con el auge de la banca y del comercio, se impuso la suma de decimales, catapultada por el uso del sistema de numeración decimal. Además se popularizó la adición de logaritmos vulgares, que reemplazaba eficazmente a la multiplicación de números tanto en el comercio, finanzas, astronomía, navegación, etc.
+        \n \n
+
+        Los signos + (suma) y – (resta). La primera vez que aparecen los signos + (más) y – (menos) en un libro impreso, que se sepa hoy en día, es en la obra Mercantile Arithmetic, o Behende und hubsche Rechenung au allen Kau manscha, del matemático alemán Johannes Widman (1462 – 1498), publicado en Leipzig en 1489. Sin embargo, Widman no utiliza los signos + y – como símbolos de las operaciones aritméticas suma y resta, sino, dentro de las prácticas comerciales analizadas en el texto, para expresar exceso y defecto de las mercancías, por ejemplo, en el peso de los barriles. En la siguiente imagen vemos “4 + 5” que quiere decir “4 centner + 5 pfund” o “5 – 17” expresando “5 centner – 17 pfund”, donde recordemos que el “centner” y el “pfund” son unidades de peso alemanes, que 1 “centner” son 100 “pfund”, y un “centner” equivale a 50 kilogramos.
+        \n \n
+        Primer uso de los signos + y – impresos en el libro Mercantile Arithmetic (1489), de Johannes Widman Primer uso de los signos + y – impresos en el libro “Mercantile Arithmetic” (1489), de Johannes Widman
+        \n \n
+        Se suele citar el libro de aritmética del matemático holandés Van der Hoeke (siglo XVI) como la primera publicación impresa en la que aparecen los signos + y – como operaciones algebraicas, ya que se suele fechar su publicación en 1514, sin embargo, esta es de 1937 (la fecha de 1514 es un error relacionado con la edición de 1944). Como menciona Florian Cajori, la primera publicación impresa con el significado algebraico de estos signos es el libro de álgebra y aritmética Ayn new Kunstlich Beuch (1518), del matemático alemán Henricus Grammateus (aprox. 1492-1525).
+        \n \n
+        Sin embargo, esta no es la primera aparición de los signos + y –, ya que se pueden encontrar en algunos manuscritos de Alemania, escritos en latín y en alemán, de los últimos veinte años del siglo XV. En la Biblioteca de Dresde existe un volumen de manuscritos (el MS C80) en los que aparecen, quizás por primera vez, los signos + y –. Manuscritos a los que tuvieron acceso tanto Widman, como Grammateus.
+        \n \n
+        Signos más y menos, que aparecen en dos expresiones algebraicas, en dos hojas de los manuscritos latinos MS C80, páginas 350 y 352, de la Biblioteca de Dresde, del año 1486 Signos más y menos, que aparecen en dos expresiones algebraicas, en dos hojas de los manuscritos latinos MS C80, páginas 350 y 352, de la Biblioteca de Dresde, del año 1486
+        \n \n
+        La forma del signo más como una cruz + se debe a que originalmente en los manuscritos latinos se utilizaba la conjunción latina “et”, es decir, la conjunción “y”, para expresar la adición, de la misma forma que nosotros seguimos diciendo hoy en día “2 y 2 son 4”. El signo + es una abreviatura de “et”, de hecho, algunos estudiosos han enumerado más de cien abreviaturas distintas de la palabra “et” en textos latinos, y una de ellas sería la cruz + (pensemos en la escritura de la t). En uno de esos primeros manuscritos, de 1417, aparece una cruz +, pero con el segmento vertical inclinado hacia atrás.
+        \n \n
+        La primera vez que aparece el signo + en un manuscrito podría ser la obra Algorismus proportionum del matemático Nicolás de Oresme (1323-1382), escrito entre los años 1356 y 1361. Sin embargo, es posible también que este signo + haya sido escrito por un copista posterior y no estuviese en la obra original.
+    </string>
+    <string name="HistoriaMultiplicar">
+        Origen de la Multiplicación: Los primeros en usar la multiplicación fueron los egipcios, aproximadamente en el año 2700 A.C. Usaron un sistema que llamaron multiplicación por duplicación. Otra civilización pionera en usar la multiplicación fue la sumeria,en Asia menor, hacia el 2600 A.C. Inventaron las tablas de multiplicar y las escribían en tablas de arcilla secadas al sol.
+-La multiplicación que se usa en laactualidad, fue inventada por loshindúes.-Pitágoras, filósofo griego, fue el llamadodesarrollador y analizador de lamultiplicación.
+Desarrollo histórico de la multiplicación-En Babilonia, usaban la siguiente fórmula:Reemplazando:5*3 = (5+3)*(5+3)-(5*5)-(3*3)/2 = 15
+En China Los chinos multiplicaban con varillas debambú.Las varillas se disponen en formahorizontal, las que corresponden almultiplicando y en forma vertical las quecorresponden al multiplicador. Ejemplo: multiplicar 25 por 342
+En India:Los matemáticos hindúes a partir del siglo V, efectuaron la multiplicación por el procedimiento conocido con el nombre de cuadrículas. Ejemplo, multiplicar 6358 por 547:
+En Egipto:Los egipcios multiplicaban por unmétodo que consistía endescomponer la multiplicación enuna serie de sumas abreviadas,duplicando, reduplicando y asísucesivamente el multiplicando,mientras que en el multiplicador sedebe hallar su mitad cada vez. Para ver esta película, debe disponer de QuickTime y de un descompresor TIFF (sin comprimir).
+Elemento Cero:Cualquier numero multiplicado por cero por consecuencia será cero.Elemento Identidad (Neutro) Si se multiplica un numero X por 1, por consecuencia será el numero que representa X
+Desde un punto de vista geométrico, la multiplicación entre 2 valores produce unárea que es representable. Del mismo modo cualquier número de valores mayores de 0 produce un resultado geométrico representable.
+Relevancia en vida cotidiana Es habitual porque se hace sin darsecuenta. Es como la suma, pero nos ayuda asimplificarla y se nos a hace mas fácilobtener resultados Sirve para distribuir y saber cuánto senecesita de ciertos recursos
+Ejemplo: Si medio kilo de pan cuesta 400 pesos,para saber el precio del kilo del panpodemos multiplicar 400 por 2, lo que dará800 pesos.
+    </string>
+    <string name="HistoriaDividir">
+        La barra horizontal de las fracciones (de origen árabe) ya era usada por Fibonacci en el siglo XIII, aunque no se generalizó hasta el siglo XVI. Es, desde luego, la forma más satisfactoria, pues no solo indica la operación sino que en el caso de que sean varias las operaciones a realizar establece el orden de prioridad entre ellas (digamos que además de signo es paréntesis). La barra oblicua /, variante de la anterior para escribir en una sola línea, fue introducida por De Morgan en 1845.
+\n \n
+En 1659 el suizo Johann Heinrich Rahn inventó para la división el signo ¸, que resulta bastante gráfico una vez que la barra de fracción es norma general. No tuvo mucho éxito en su país, Suiza, ni en la Europa continental, pero sí en Gran Bretaña y los Estados Unidos.
+\n \n
+Los dos puntos se deben a Leibniz (1684), que los aconsejaba para aquellos casos en los que se quisiese escribir la división en una sola línea y la notación con raya de fracción no fuese por tanto adecuada. Este signo mantiene el parentesco de la división con la multiplicación, para la que Leibniz usaba un punto.
+\n \n
+En cuanto al gnomon o ángulo que utilizamos para separar dividendo, divisor y cociente en la división larga no se dispone de una información precisa. Boyer, en su Historia de la matemática, p.282, dice: "Los árabes, y a través de ellos más tarde los europeos, adoptaron la mayor parte de sus artificios aritméticos de los hindúes, y por tanto es muy probable que también provenga de la India el método de "división larga" conocido como el "método de la galera", por su semejanza con un barco con las velas desplegadas." Pues bien: en dicho "método de la galera" se utilizaba un ángulo parecido al que se usa en la actualidad para separar el divisor de los otros números.
+    </string>
+</resources>
